@@ -49,7 +49,7 @@ const Navigation = ({ onNavigate, currentSection }: NavigationProps) => {
             {/* GitHub Link */}
             <Button variant="outline" asChild>
               <a 
-                href="https://github.com" 
+                href="https://github.com/Hauh4444/task-management"
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="flex items-center gap-2"
@@ -108,7 +108,7 @@ const Navigation = ({ onNavigate, currentSection }: NavigationProps) => {
               </Button>
               <Button variant="outline" asChild className="justify-start">
                 <a 
-                  href="https://github.com" 
+                  href="https://github.com/Hauh4444/task-management"
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="flex items-center gap-2"
