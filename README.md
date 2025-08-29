@@ -2,11 +2,11 @@
 
 A beautiful, responsive task management application built with React, TypeScript, Supabase, and modern web technologies. This project demonstrates full-stack development skills with authentication, real-time database integration, and serves as a comprehensive portfolio showcase.
 
-![Task Dashboard Screenshot](https://via.placeholder.com/800x400?text=Task+Dashboard+Screenshot)
+![Task Dashboard Screenshot](/public/dashboard-screenshot.png)
 
 ## Live Demo
 
-[View Live Application](https://your-demo-link.com)
+[View Live Application](https://main.dk2nrxxcpt5un.amplifyapp.com/)
 
 ## Test Login Credentials
 
@@ -286,19 +286,3 @@ VITE_SUPABASE_ANON_KEY=your_anon_key
 - Design inspiration from modern productivity applications
 - Icon set provided by [Lucide](https://lucide.dev/)
 - Built with modern web technologies and best practices
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-**Star this repository if you found it helpful!**
