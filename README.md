@@ -4,10 +4,6 @@ A beautiful, responsive task management application built with React, TypeScript
 
 ![Task Dashboard Screenshot](/public/dashboard-screenshot.png)
 
-## Live Demo
-
-[View Live Application](https://main.dk2nrxxcpt5un.amplifyapp.com/)
-
 ## Test Login Credentials
 
 For quick testing without creating an account:
