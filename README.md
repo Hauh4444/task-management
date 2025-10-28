@@ -4,12 +4,6 @@ A beautiful, responsive task management application built with React, TypeScript
 
 ![Task Dashboard Screenshot](/public/dashboard-screenshot.png)
 
-## Test Login Credentials
-
-For quick testing without creating an account:
-- **Email**: test@email.com
-- **Password**: password
-
 ## Features
 
 ### Authentication & User Management
